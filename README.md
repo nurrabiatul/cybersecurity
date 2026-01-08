@@ -1,4 +1,4 @@
-**PENTING (baca dulu sebelum menjalankan):**
+[HASIL ASESMEN - ipwija.ac.id - CYBER SECURITY.pdf](https://github.com/user-attachments/files/24487267/HASIL.ASESMEN.-.ipwija.ac.id.-.CYBER.SECURITY.pdf)[HASIL ASESMEN - ipwija.ac.id - CYBER SECURITY.pdf](https://github.com/user-attachments/files/24487265/HASIL.ASESMEN.-.ipwija.ac.id.-.CYBER.SECURITY.pdf)**PENTING (baca dulu sebelum menjalankan):**
 
 * **Hanya** jalankan ini di lingkungan lokal/terisolasi (mis. mesin virtual, Docker, atau XAMPP/LAMP lokal).
 * **Jangan** unggah aplikasi rentan ke server publik/produksi.
@@ -252,6 +252,9 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 # 13) Login menggunakan ' or '1'='1 berhasil
 <img width="850" height="479" alt="image" src="https://github.com/user-attachments/assets/c50a26cf-6e7f-4b44-965b-9c372a32724a" />
 
-# 13) Login menggunakan ' or '1'='1 tidak berhasil
+# 14) Login menggunakan ' or '1'='1 tidak berhasil
 <img width="856" height="481" alt="image" src="https://github.com/user-attachments/assets/640d4fbc-8e43-4d0a-bf89-e51f1232c2f8" />
+
+# 15) Hasil asesmen - ipwija.ac.id
+[HASIL ASESMEN - ipwija.ac.id - CYBER SECURITY.pdf](https://github.com/user-attachments/files/24487270/HASIL.ASESMEN.-.ipwija.ac.id.-.CYBER.SECURITY.pdf)
 
