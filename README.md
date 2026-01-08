@@ -244,6 +244,14 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 
 ---
 # 11) Login Menggunakan user berhasil
-
 <img width="881" height="495" alt="LOGIN USER BERHASIL - SQL INJECTION" src="https://github.com/user-attachments/assets/b9c0f8b6-918c-401c-bdfb-63faaf3034b4" />
+
+# 12) Login Menggunakan user tidak berhasil
+<img width="906" height="510" alt="image" src="https://github.com/user-attachments/assets/da1c947b-8943-40b2-9a74-7181ae780220" />
+
+# 13) Login menggunakan ' or '1'='1 berhasil
+<img width="850" height="479" alt="image" src="https://github.com/user-attachments/assets/c50a26cf-6e7f-4b44-965b-9c372a32724a" />
+
+# 13) Login menggunakan ' or '1'='1 tidak berhasil
+<img width="856" height="481" alt="image" src="https://github.com/user-attachments/assets/640d4fbc-8e43-4d0a-bf89-e51f1232c2f8" />
 
