@@ -243,3 +243,7 @@ echo "Login gagal (secure). <a href='index.php'>Kembali</a>";
 * Setelah latihan, praktikkan perbaikan pada `secure_login.php` dan migrasikan password ke hash.
 
 ---
+# 11) Login Menggunakan user berhasil
+
+<img width="881" height="495" alt="LOGIN USER BERHASIL - SQL INJECTION" src="https://github.com/user-attachments/assets/b9c0f8b6-918c-401c-bdfb-63faaf3034b4" />
+
