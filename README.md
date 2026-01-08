@@ -1,4 +1,4 @@
-[HASIL ASESMEN - ipwija.ac.id - CYBER SECURITY.pdf](https://github.com/user-attachments/files/24487267/HASIL.ASESMEN.-.ipwija.ac.id.-.CYBER.SECURITY.pdf)[HASIL ASESMEN - ipwija.ac.id - CYBER SECURITY.pdf](https://github.com/user-attachments/files/24487265/HASIL.ASESMEN.-.ipwija.ac.id.-.CYBER.SECURITY.pdf)**PENTING (baca dulu sebelum menjalankan):**
+**PENTING (baca dulu sebelum menjalankan):**
 
 * **Hanya** jalankan ini di lingkungan lokal/terisolasi (mis. mesin virtual, Docker, atau XAMPP/LAMP lokal).
 * **Jangan** unggah aplikasi rentan ke server publik/produksi.
